@@ -1,0 +1,5 @@
+print("Ola Tulewin")
+mensagem = input("Como te chamas?")
+print ("Ola, ",mensagem)
+idade = input("Quantos anos tens?")
+print (idade)
